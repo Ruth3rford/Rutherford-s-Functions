@@ -1,0 +1,1 @@
+{"type":"div","left":{"type":"cos","input":{"type":"storage","storage":"minecraft:trig.math","path":"input"}},"right":{"type":"sin","input":{"type":"storage","storage":"minecraft:trig.math","path":"input"}}}
